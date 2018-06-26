@@ -1,0 +1,3 @@
+BassDrum;Closed Hi-Hat;Open Hi-Hat;Acoustic Snare; Crash Cymbal; Hand Clap
+High Tom;Hi Bongo;Maracas;Whistle;Low Conga;Cowbell;Vibraslap;Low-mid Tom
+Gigh Agogo;Open Hi Conga
